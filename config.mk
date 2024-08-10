@@ -226,6 +226,11 @@ PRODUCT_PACKAGES += \
     IconPackRoundedSettingsOverlay \
     IconPackRoundedSystemUIOverlay \
     IconPackRoundedThemePickerOverlay \
+    IconPackNostalgicAndroidOverlay \
+    IconPackNostalgicLauncherOverlay \
+    IconPackNostalgicSettingsOverlay \
+    IconPackNostalgicSystemUIOverlay \
+    IconPackNostalgicThemePickerOverlay \
     IconPackSamAndroidOverlay \
     IconPackSamLauncherOverlay \
     IconPackSamSettingsOverlay \
